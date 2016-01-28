@@ -1,6 +1,6 @@
 h3 {
     font-family: "Gotham Rounded", sans-serif;
-     color: #fff;
+     color: #000;
      text-align: center;
      font-size: 12px;
      
@@ -8,9 +8,9 @@ h3 {
 
 h1 {
     font-family: "Gotham Rounded", sans-serif;
-     color: #FFF;
+     color: #000;
      text-align: center;
-     font-size: 15px;
+     font-size: 30px;
      
 }
 
@@ -20,7 +20,7 @@ h1 {
 
 
 body {
-    background-color: #000;
+    background-color: #fff;
 }
 
 h2 {
