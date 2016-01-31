@@ -1,0 +1,43 @@
+body {
+    background-color: #ffebf7;
+}
+
+#logo {
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+
+#heading {
+    font-family: Lato, "san-serif";
+    text-align: center;
+    font-size: 13px;
+}
+
+#logo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 550px;
+}
+
+
+br1 {
+    display: block;
+    line-height: 25px;
+}
+
+br2 {
+    display: block;
+    line-height: 20px;
+}
+
+#footer {
+    font-family: Lato, "san-serif";
+    text-align: center;
+    font-size: 9px;
+
+}
