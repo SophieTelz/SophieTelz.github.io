@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>Hello World</title>
+            <link href="index.css" rel="stylesheet" type="text/css">
+
+    </head>
+    
+    <body>
+        <h1>Hello World</h1>
+        
+        <em>"I'll sleep when I'm dead"</em>
+        
+        <p class="space">
+            My name is Sophie and I'm always tired. My eyes remain in a state of puffiness during all hours of the day. Catch me on campus constantly squinting.
+            </p>
+            <p>
+            "Hello World" implies you're ready for the day, which I never am. There are never enough hours of sleep to counteract the amount of time spent awake. 
+            <br> 
+            Every morning I wake up and try to say hello to the world but realize I'm still behind on my hellos from the previous week. 
+        </p>
+        
+        <strong>
+            I can break down my reasoning for faulty Hellos into 3 main reasons:
+        </strong>
+        
+        <ul>
+          <li>No matter which hour of the day it is, it's always too early</li>
+          <li>My night-time routine promotes productivity</li>
+          <li>Fuck mornings</li>
+        </ul>
+        
+        
+        <input type="text" value="If I really thought sleep would help me at this point, I probably would have done it by now. I think it's too late, I'm just perpetually tired forever.">
+        
+        <br>
+        
+        <mark>I'll keep trying to stay awake though, at least until I graduate.</mark>
+        
+        <small> shhhh don't tell my mom I never say hello to the world</small>
+        
+        <sub> *she'll be pissed</sub>
+        
+        <p>Even though I suck at saying hello to the world, I still appreciate it just as much as I appreciate my sleep.</p>
+        
+        <sup>I now consider myself a night person</sup>
+        
+        <br>
+        
+        <input type="checkbox"> 
+        
+        <strong>Agree?</strong>
+        
+        <br>
+        <br>
+        
+        <em>I'll stick to saying "Goodnight World"</em>
+        
+        <br>
+        <br>
+        
+        <a href="http://sophietelz.github.io/">Home Page</a>
+        
+        <hr>
+        
+    </body>
+    
+</html>
