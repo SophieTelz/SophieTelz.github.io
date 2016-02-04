@@ -57,3 +57,11 @@ a:hover {
 #helloworld:hover {
     opacity: .4;
 }
+
+#classpage:hover {
+    opacity: .4;
+}
+
+#classpage {
+    margin-right: 20px;
+}
