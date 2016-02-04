@@ -1,6 +1,84 @@
-a, h1, p, ul, h2, .post-date {
-    color: #000;
+
+body {
+    font-family: "Avenir", sans-serif;
+    font-weight: 100;
     text-decoration: none;
-    font-family: "Lato", sans-serif;
+    color: #fff;
+    background-color: #fcd272;
 }
 
+a {
+    font-family: "Avenir", sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    color: #fff;
+    background-color: #f9afaf;
+}
+
+ul {
+    list-style: none;
+}
+
+a:hover {
+    opacity: .4;
+    color: #fff;
+}
+
+.sidebar {
+    padding-right: 10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    text-align: right;
+    float: right;
+    color: #fff;
+    background-color: #f9afaf;
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    right: 10px;
+}
+
+ul:nth-child(-n+46) {
+    margin-right: 10px;
+}
+
+h2, p {
+    margin-right: 10px;
+}
+
+.post {
+    width: 800px;
+    text-align: left;
+    margin-right: 100px;
+    padding-left: 20px;
+}
+
+.highlight {
+    background-color: #f9afaf;
+    padding-top: 20px;
+    width: 500px;
+    margin-bottom: 100px;
+    margin-left: 40px;
+    margin-top: 40px;
+    opacity: .2;
+}
+
+code, small {
+    color: #e28181;
+}
+
+.highlight:hover {
+    opacity: 1;
+}
+
+h2 {
+    font-family: "Avenir", sans-serif;
+    font-weight: 100;
+    font-size: 17px;
+    color: #e28181;
+}
+
+h1 {
+    font-family: "Avenir", sans-serif;
+    font-weight: 100;
+}
