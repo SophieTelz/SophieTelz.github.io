@@ -3,10 +3,7 @@ body {
 }
 
 #logo {
-    padding-top: 30px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+    margin: 20px auto;
     
 }
 
@@ -15,13 +12,6 @@ body {
     font-family: Lato, "san-serif";
     text-align: center;
     font-size: 13px;
-}
-
-#logo1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0px;
 }
 
 
@@ -60,27 +50,6 @@ a:hover {
 }
 
 
-#classpage {
-    margin-right: 20px;
-}
-
-#nextpage {
-    margin-top:50px;
-}
-
-#helloworld {
-    margin-left: 60px;
-}
-
-#fmta {
-    margin-left: 425px;
-    margin-top: -170px;
-}
-
-#catalog {
-    margin-left: 60px;
-    margin-bottom: 200px;
-}
 
 .pointer { 
     cursor: pointer; }
