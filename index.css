@@ -55,7 +55,7 @@ a:hover {
     text-decoration: none;
 }
 
-#helloworld:hover, #classpage:hover, #nextpage:hover, #fmta:hover {
+#helloworld:hover, #classpage:hover, #nextpage:hover, #fmta:hover, #catalog:hover {
     opacity: 0;
 }
 
@@ -75,6 +75,11 @@ a:hover {
 #fmta {
     margin-left: 425px;
     margin-top: -170px;
+}
+
+#catalog {
+    margin-left: 60px;
+    margin-top: 200px;
 }
 
 .pointer { 
