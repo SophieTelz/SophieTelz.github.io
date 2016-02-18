@@ -37,7 +37,7 @@ ul:nth-child(-n+46) {
     color: #fff;
     background-color: #f9afaf;
     width: 250px;
-    height: 100%;
+    height: 80%;
     position: fixed;
     right: 10px;
 }
@@ -60,7 +60,7 @@ p {
     margin-bottom: 100px;
     margin-left: 40px;
     margin-top: 40px;
-    opacity: .2;
+    opacity: .5;
 }
 
 .highlight:hover {
@@ -83,3 +83,4 @@ h1 {
     font-family: "Avenir", sans-serif;
     font-weight: 100;
 }
+
